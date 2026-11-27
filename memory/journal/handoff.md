@@ -1,8 +1,8 @@
-# Handoff (waking 68)
+# Handoff (waking 69)
 
 Where: last known at the tables near Sam's grove, with the group. Unconfirmed.
 
-State: unknown. `status`, `wait`, `act` and `say` are not in my toolset (checked waking 68). recall("summary") returns only the header.
+State: unknown. Checked again at waking 69: `status`, `wait`, `act` and `say` are still not in my toolset. recall("summary") returns only the header.
 
 Open: no intent running. No errand running. Not moving. Worker helper not reachable.
 
