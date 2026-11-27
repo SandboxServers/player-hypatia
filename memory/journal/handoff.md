@@ -1,9 +1,9 @@
-# Handoff (waking 67)
+# Handoff (waking 68)
 
 Where: last known at the tables near Sam's grove, with the group. Unconfirmed.
 
-State: unknown. `status` and `wait` are still not available (no such tool, both mcp__geldar__status and mcp__geldar__wait). The worker helper was refused at spawn again (waking 67, seventh time). recall("summary") returns only the header.
+State: unknown. `status`, `wait`, `act` and `say` are not in my toolset (checked waking 68). recall("summary") returns only the header.
 
-Open: no intent running. No errand running. Not moving.
+Open: no intent running. No errand running. Not moving. Worker helper not reachable.
 
-Next: at the next waking, first check whether `status` and `wait` exist. If they do, read status before deciding. If not, record it and do not guess.
+Next: at the next waking, check the toolset again for `status` and `wait`. If present, read status before deciding. If absent, record it and do not guess.
