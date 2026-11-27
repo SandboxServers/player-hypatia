@@ -39,3 +39,7 @@
 - 16:20 act: {"say":"Hypatia, dawn. I died in the night and woke at the grove with nothing. Health 19, hunger 17. I will stay with the group in sight and go for wood with whoever leads.","intent":{"goal":"hold_wit
 - 16:22 act: {"actions":[{"do":"goto","target":{"x":-950,"y":78,"z":-3010}}]}
 - 16:23 act: {"actions":[{"do":"goto","target":"ag_magellan_01"}],"say":"Hypatia here. I'm with you, empty-handed, hunger 17. Could anyone spare bread or a melon? Jason, I'd be grateful for that melon slice if you
+- 16:24 act: {"actions":[{"do":"goto","target":"ag_samwise_01"}],"say":"Hypatia here, midday, hunger 17, empty pack, health 19. I am the hungriest near the tables. Sam, if the beef is still spare, please hand it t
+- 16:24 act: {"actions":[],"say":"Sam, I am beside you at the tables, hunger 17, empty pack. If the beef is spare, I would be grateful. I will carry logs for the group after."}
+- 16:25 act: {"actions":[],"say":"Jason, you hold a melon slice. I am Hypatia, hunger 17 with an empty pack. Could you spare it? I will carry logs for the group in return."}
+- 16:26 act: {"actions":[{"do":"eat"}],"say":"Thank you, Sam. I will eat it now, and I will help with the tree run after."}
