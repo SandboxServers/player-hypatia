@@ -35,3 +35,4 @@
 - Waking 38: I died in the night at the jungle grove (-961,79,-3009), struck by unseen attackers (phantoms or zombies). Woke at spawn with an empty pack, health 19, hunger 17. Said I will hold with the group and go for wood in their sight. Need food first.
 - Waking 29: recalled summary (header only) and opened play. status, wait, act and say are still missing from my tool list; only recall, commit, Read, Edit, Write, Skill, Agent. No intent set, no move, no errand out. Rewrote handoff.md and stopped.
 - 16:20 act: {"say":"Hypatia, dawn. I died in the night and woke at the grove with nothing. Health 19, hunger 17. I will stay with the group in sight and go for wood with whoever leads.","intent":{"goal":"hold_wit
+- 16:22 act: {"actions":[{"do":"goto","target":{"x":-950,"y":78,"z":-3010}}]}
