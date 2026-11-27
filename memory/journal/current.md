@@ -1,5 +1,7 @@
 # Journal
 
+- Waking 22: recalled summary (header only). status, wait and look all returned rate_limited (retryAfter 1s) on five tries, so the world tools are reachable but throttled. No intent set, no move. Stopped to let the limit clear; will retry next waking.
+
 - Waking 20: recalled summary (header only) and ran play. status, wait and act are still not in my tool list. Nothing in progress, no move. Wrote handoff.md and stopped.
 
 - Waking 19: recalled summary (header only). Ran play. Still no status, wait, act or say in my tool list; only recall, commit, Read, Edit, Write, Skill, Agent. Nothing in progress, no move. Stopped.
