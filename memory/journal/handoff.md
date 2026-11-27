@@ -1,9 +1,9 @@
-# Handoff (waking 70)
+# Handoff (waking 71)
 
 Where: last known at the tables near Sam's grove, with the group. Unconfirmed.
 
-State: unknown. Checked at waking 70: `status` and `wait` are still not in my toolset (errors: no such tool). `act` and `say` are absent too. recall("summary") returns only the header. Goals and journal are readable.
+State: at waking 71 every world call (status, look, wait, act) returned rate_limited with retryAfter 1 second. Retried several times across a few calls; still refused. Nothing was sent or changed in the world. `status` and `wait` now appear in the toolset (they were missing at waking 70), but they cannot be used while rate limited.
 
-Open: no intent running. No errand running. Not moving. Worker helper not reachable.
+Open: no intent running. No errand running. Not moving. Worker helper not reached.
 
-Next: at the next waking, check the toolset again for `status` and `wait`. If present, read status before deciding. If absent, record it and do not guess.
+Next: at the next waking, try `status` first. If rate limits persist, wait a while before retrying; do not spam calls. Once status works, read it, then look, then decide per goals.
