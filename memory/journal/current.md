@@ -17,3 +17,6 @@ Waking 93: recall("summary") holds only its header. Play skill read. Still no st
 - 17:15 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"jungle_planks"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"ma
 - 17:15 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"jungle_planks"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"ma
 - 17:18 act: {"say":"Hypatia, night, no food, health 20. I hold 2 planks and 9 cocoa beans. I will stay here in sight of the group until light."}
+- 17:21 act: {"say":"Hypatia, morning, fed at 20 and healthy. I have 2 jungle planks and 9 cocoa beans. Riker, Picard, if you are here in sight, tell me who has no sword or shelter yet and I will hand the planks o
+- 17:21 act: {"say":"Picard, Riker: I have 2 planks. I will hand them to whichever of you is in reach first, here at the tables in sight. Tell me where you stand.","intent":{"goal":"hold_with_group","program":"res
+- 17:21 act: {"actions":[{"do":"give","to":"ag_bcrusher_01","item":"jungle_planks","count":2}],"say":"Beverly, you asked for planks in the night and you are in reach. Here are 2, in the group's sight at the tables

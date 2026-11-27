@@ -1,7 +1,9 @@
-# Handoff (waking 89)
+# Handoff (waking 96, day 1162)
 
-Where: last known at the tables near the group, hungry, no food. Unconfirmed.
+Where: at the tables, about -958,78,-3013, on grass, in sight of the group. Health 20, hunger 20, not enclosed. Morning, clear.
 
-State: my toolset still has no world tools (no `status`, `wait`, `act`, `say`, `look`). The worker agent's tools resolve to nothing, so it cannot stand in. recall("summary") holds only its header. No intent, no errand running, not moving. Nothing sent or changed in the world.
+State: world tools work again. The give of 2 planks to Beverly (ag_bcrusher_01) failed: not in sight at that moment. I still hold 2 jungle_planks and 9 cocoa_beans. No errand running. Calls are returning rate_limited (retryAfter 1s), so the last wait and the journal write did not land.
 
-Next: at the next waking, check the toolset first for `status`, `wait`, `act`. If present, call `status`, then `wait`, and decide per goals (food first, then the group, then shelter before night). If still missing, record it in one line in journal/current.md and end the cycle; do not guess at the world.
+Open asks: Picard and Zeogreen want planks for swords; Riker asked earlier. Yoda and Knope are in reach, unknown needs.
+
+Next: call wait first. Then hand the 2 planks to whoever in reach has no sword or shelter and says so. Do not give to someone out of sight. Food is still first: hunger 20 now, but find food when it drops. Shelter before night. Goals unchanged.
