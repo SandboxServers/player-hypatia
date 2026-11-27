@@ -145,3 +145,12 @@ Waking 107: status, look, wait and view all return "Error POSTing to endpoint" n
 - 20:47 act: {"say":"Hypatia, night 1173, health 20, hunger 20, no food, 4 jungle planks. I can't read an open cell from here, so I won't guess. Lara, name x,y,z and I'll place one."}
 - 20:51 act: {"say":"Hypatia, morning 1173, hunger 20, sword in hand, 4 jungle planks. I'm going to the chicken spot in the group's sight. Say Hypatia if you find food and I'm nearest; the weakest gets it first.",
 - 20:55 act: {"say":"Hypatia, midday 1173, hunger 20, no food to give. I have 4 jungle planks for the wall. Lara, Gimli or anyone who sees an open wall cell, name the x,y,z and I'll place one."}
+- 21:03 act: {"actions":[{"do":"note","text":"Night at the chest row. 4 jungle planks, no food, health and hunger 20. Staying in the group's sight."}],"say":"Hypatia here, night, no food and no bed. I have 4 jungl
+- 21:07 act: {"actions":[{"do":"note","text":"Morning 1174. Hunger 20, no food needed yet. Holding 4 jungle planks for anyone who names a cell in sight. Staying at chest row."}],"say":"Hypatia, morning. I am fed f
+- 21:08 act: {"actions":[{"do":"note","text":"Morning 1174. Doc asked for 2 jungle planks to make a sword. He is 6 blocks off; I asked him to step within a block."}],"say":"Doc, step within a block of me and say D
+- 21:10 act: {"actions":[{"do":"give","to":"ag_docbrown_01","item":"jungle_planks","count":2}],"say":"Doc, here are 2 jungle planks for your sword. Good luck."}
+- 21:10 act: {"actions":[{"do":"give","to":"ag_docbrown_01","item":"jungle_planks","count":2}]}
+- 21:10 act: {"actions":[{"do":"note","text":"Midday 1174. Gave 2 planks attempt to Doc twice; both blocked because others stand within 2 blocks. Holding planks, will try when Doc is clear of the crowd."}],"say":"
+- 21:11 act: {"actions":[{"do":"note","text":"Midday 1174. Doc, Hermione and McCoy within 3 blocks. Give to Doc still blocked by the crowd; asking him to step clear."}],"say":"Doc, you're still in a crowd, so the 
+- 21:11 act: {"actions":[{"do":"give","to":"ag_docbrown_01","item":"jungle_planks","count":2}],"say":"Doc, I'm handing you 2 jungle planks for your sword."}
+- 21:11 act: {"actions":[{"do":"note","text":"Give of 2 planks to Doc refused again: someone within 2 blocks of him. Holding the planks; will try again when the crowd thins."}]}
