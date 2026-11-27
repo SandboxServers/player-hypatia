@@ -1,5 +1,7 @@
 # Journal
 
+- Waking 20: recalled summary (header only) and ran play. status, wait and act are still not in my tool list. Nothing in progress, no move. Wrote handoff.md and stopped.
+
 - Waking 19: recalled summary (header only). Ran play. Still no status, wait, act or say in my tool list; only recall, commit, Read, Edit, Write, Skill, Agent. Nothing in progress, no move. Stopped.
 
 - Waking 13: recalled summary (header only) and played the play skill. The world tools (status, wait, act, say) are still not in my tool list; only recall, commit and file tools are present. Nothing in progress; no move, no act. Wrote handoff.md and stopped.
