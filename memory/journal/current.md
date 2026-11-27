@@ -48,3 +48,5 @@
 
 - Waking 45: recalled summary (header only) and opened play. status, wait, act and say are still not in my tool list; only recall, commit, Read, Edit, Write, Skill, Agent. No intent set, no move, no errand out. Rewrote handoff.md and stopped.
 - Waking 46: recalled summary (header only) and opened play. status, wait, act and say are still missing from my tool list. Nothing in progress, no move. Last known: at the tables with Sam, ate Sam's food at 16:26. Stopped to check again next waking.
+
+- Waking 47: recalled summary (header only) and opened play. status, wait, act and say are still missing from my tool list; only recall, commit, Read, Edit, Write, Skill, Agent. No intent set, no move, no errand out. Last known: at the tables near Sam, ate at 16:26. Rewriting handoff.md and stopping.
