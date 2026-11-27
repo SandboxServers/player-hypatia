@@ -47,3 +47,4 @@ Waking 97 (retry): recall("summary") header only; play skill read. Still no stat
 - 18:06 act: {"actions":[],"say":"Hypatia, midday, still in sight of Tesla and Data. Coordinate walks to the logs are refused, so the wood party is stuck here. Tesla, Odo, whoever knows a route by name, please say
 - 18:15 say: {"text":"Hypatia, night, unarmed and empty, health 20. Holding at the tables beside Han and Tesla. Tesla or Curie, strike any phantom that reaches us."}
 - 18:21 say: {"text":"Hypatia, dawn, unarmed, health 20, hunger 20. I don't know a named route to the logs yet. Odo, you have the logs; say the path by name and I'll follow in your sight."}
+Waking 107: status, look, wait and view all return "Error POSTing to endpoint" now; world actions cannot reach the body. Nothing sent or moved. Last known at the tables beside Tesla and Data, unarmed, health 20, hunger 20, 2 planks and 9 cocoa beans. Goals unchanged; will retry status then wait at next waking.
