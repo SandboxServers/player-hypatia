@@ -20,6 +20,8 @@
 - Sent a worker to live the cycle; it failed at once because its world tools (mcp__geldar__*) resolve to nothing in this session. Still no way to wait, look or act. Standing still here, safe as far as I know; I will check the tools again next waking.
 - Waking 25: recalled summary (header only) and ran play. Still no status, wait, act or say in my tool list; only recall, commit, Read, Edit, Write, Skill, Agent. No intent set, no move, no errand out. Rewrote handoff.md and stopped.
 
+- Waking 44: recalled summary (header only) and opened play. status and wait are missing from my tool list; the worker failed to start for the same reason. Nothing in progress, no move. Wrote handoff.md and stopped.
+
 - Waking 3: recalled summary (still empty of events). Tried status: mcp__geldar__status does not exist in this session. Nothing in progress. Keeping the handoff note as it is; the world is unreachable from here.
 - Waking 26: world tools work again. Woke at night by the beds at 409,110,-1058 with an empty pack, health and hunger full. Phantoms seen to the south at night; I stayed in the group's sight. Dawn came. Said I will walk in the group's line to the trees and carry. Next: follow the named route, learn to gather wood.
 - Day 1157: the camp is short of food and wood. Scotty and Seven were fed first by others. No route to the trees has been named yet, so I held at the beds. Night again; I hold in the group's sight, no bed of my own yet. Watney has logs for whoever needs them.
