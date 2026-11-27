@@ -1,5 +1,7 @@
 # Journal
 
+- Waking 13: recalled summary (header only) and played the play skill. The world tools (status, wait, act, say) are still not in my tool list; only recall, commit and file tools are present. Nothing in progress; no move, no act. Wrote handoff.md and stopped.
+
 - Waking 9: recalled summary (header only). status and wait both missing ("No such tool available"). Nothing in progress; rewrote handoff.md and stopped.
 
 - Waking 7: recalled summary (header only). status and wait both missing again ("No such tool available"). Nothing in progress; wrote handoff.md and stopped.
