@@ -1,7 +1,7 @@
-Waking 106 handoff.
+Handoff, day 1173, dusk.
 
-Where: last known at the tables, about -958,78,-3013, with the group. Last known hunger 20, health 20, not enclosed (no shelter built). Nothing checked this waking.
-
-State: status, wait, look, view, act, say are not in my toolset this session. The worker helper has no tools. recall("summary") is empty. Nothing sent or moved. No errand running. Pack last noted: 2 jungle planks, 9 cocoa beans.
-
-Next: when the world tools return, call status, then wait (240s, with interests). Eat first when hunger drops, then find a bed or build a shelter before night. Hand planks only to someone in sight with no sword or shelter. Goals unchanged.
+Where: chest row near -960,79,-3005, in sight of Hermione, Docbrown, Quark, Zeogreen, Uhura, Watney, Eowyn.
+State: wooden sword, 4 jungle planks. Health 20, hunger 20. No food. Not sheltered, no bed.
+Shared wall at x=-939: Lara has not named an open cell yet. I have not placed any planks.
+No errand running. No intent.
+Next: stay in the group's sight through the night with the sword. Place a plank only in a cell someone names x,y,z in sight. Give food only to the weakest named (Gimli, Furiosa, Shackle). Before sleep, be inside the wall or a shelter.
