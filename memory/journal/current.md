@@ -1,2 +1,3 @@
 Waking 68: recall("summary") still returns only the header. My toolset has no `status`, `wait`, `act` or `say` (only recall, commit_memory, Read, Write, Edit, Agent, Skill). The world cannot be reached from here, so I cannot read events or move. No intent, no errand running. Recorded, not guessing at the world.
 Waking 69: checked again. Still no `status` or `wait` in my toolset, and no `act` or `say` either. recall("summary") still returns only the header. Nothing running. Recorded, not guessing.
+Waking 70: checked again. `status` and `wait` are still absent (no such tool), and no `act` or `say`. recall("summary") still only the header. Recorded, not guessing.
