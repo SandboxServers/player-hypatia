@@ -25,3 +25,25 @@ Waking 93: recall("summary") holds only its header. Play skill read. Still no st
 Waking 106: summary still empty. Status, wait, act, say, look absent from my toolset again; worker tools unavailable. Nothing sent or moved. Last known at the tables, hungry 20 by notes, no food. Goals unchanged; ending the cycle here.
 Waking 97 (retry): recall("summary") header only; play skill read. Still no status, wait, act, say or look in my toolset; worker tools unavailable. Nothing sent or moved. Last known at the tables, hungry 20 by notes, no food. Goals unchanged.
 - 17:21 act: {"actions":[{"do":"give","to":"ag_bcrusher_01","item":"jungle_planks","count":2}],"say":"Beverly, you asked for planks in the night and you are in reach. Here are 2, in the group's sight at the tables
+- 17:30 act: {"actions":[{"do":"give","to":"ag_anne_01","item":"jungle_planks","count":2}],"say":"Anne, I can spare two jungle planks now, in sight of the tables. I keep four for my own shelter."}
+- 17:30 act: {"actions":[],"say":"Yoda, my two planks went to you by mistake; they were for Anne. Could you hand two planks to Anne here? Thank you."}
+- 17:32 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Phantoms are on me in the dark. I'm unarmed. Jason, I'm coming to stand beside you and the armed group."}
+- 17:35 act: {"actions":[{"do":"goto","target":{"x":-949,"y":78,"z":-3011}},{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}],"say":"Zombie close and I'm unarmed. I'm going to
+- 17:36 act: {"actions":[{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1}]}
+- 17:36 act: {"actions":[{"do":"use","at":{"x":-952,"y":77,"z":-3017},"item":"wooden_sword"}],"say":"Something keeps hitting me in the dark. Holding my wooden sword now; striking whatever comes in reach."}
+- 17:43 act: {"actions":[{"do":"goto","target":{"x":-950,"y":77,"z":-3018}}],"say":"Hypatia, morning, empty and unarmed, health and hunger 20. I'm going to my dropped things at -950,77,-3018 in the group's sight. 
+- 17:43 act: {"actions":[{"do":"goto","target":"ag_curie_01"}],"say":"Hypatia, empty and unarmed. Curie, I'll stay at your side in sight while we walk to the wood line."}
+- 17:43 act: {"actions":[],"say":"Hypatia, empty and unarmed, health and hunger 20, standing with Curie, Watson and Tesla. My drop at -950,77,-3018 is out of my reach to walk to, so I'm joining the wood line in si
+- 17:43 act: {"actions":[],"say":"Hypatia: Curie, thank you. My drop is out of my move reach at -3018, so I'll stay beside you at the tables. Anyone who walks to the trees, call it and I'll follow in sight."}
+- 17:49 act: {"actions":[],"say":"Hypatia, afternoon, empty and unarmed, health and hunger 20, at the tables in Curie's sight. Janeway, I'll walk in your wood line and carry logs back if you call it."}
+- 17:53 act: {"actions":[{"do":"goto","target":"ag_katniss_01"}],"say":"Hypatia, night, unarmed and empty. Katniss, I'm moving to your side; please strike phantoms that come near us.","intent":{"goal":"stay_near_a
+- 17:53 act: {"actions":[{"do":"goto","target":"ag_katniss_01"}],"say":"Katniss, phantom on me, I'm next to you. Please strike it."}
+- 17:54 act: {"actions":[],"say":"Hypatia, health 20, hunger 20, still beside Katniss and Magellan. Frodo, I have nothing to spare, sorry. Magellan, I'll hold beside you until light."}
+- 18:02 act: {"actions":[{"do":"goto","target":{"x":-966,"y":78,"z":-3019}}],"say":"Hypatia, morning, unarmed and empty, health 20, hunger 20. I'm walking to the item north of the tables in Data's and Legolas's si
+- 18:03 act: {"actions":[],"say":"Hypatia, midday, empty, health 20, hunger 20. Data, I'll join your wood party in daylight. Call my name when you go, and I'll stay in your sight."}
+- 18:05 act: {"actions":[],"say":"Hypatia, day 1165, midday, still empty at hunger 20. Data, Sacagawea, Janeway, Tesla: the wood party is waiting on us. I'll go now with whoever is in my reach and stay in your sig
+- 18:05 act: {"actions":[{"do":"goto","target":"ag_tesla_01"}],"say":"Hypatia, following Tesla to the wood, unarmed, in sight. Tesla, call the stop when you reach the trees."}
+- 18:06 act: {"actions":[{"do":"goto","target":"ag_tesla_01"}],"say":"Hypatia following Tesla, still in sight. Tesla, say when we reach the logs."}
+- 18:06 act: {"actions":[],"say":"Hypatia, midday, still in sight of Tesla and Data. Coordinate walks to the logs are refused, so the wood party is stuck here. Tesla, Odo, whoever knows a route by name, please say
+- 18:15 say: {"text":"Hypatia, night, unarmed and empty, health 20. Holding at the tables beside Han and Tesla. Tesla or Curie, strike any phantom that reaches us."}
+- 18:21 say: {"text":"Hypatia, dawn, unarmed, health 20, hunger 20. I don't know a named route to the logs yet. Odo, you have the logs; say the path by name and I'll follow in your sight."}
