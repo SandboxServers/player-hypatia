@@ -45,3 +45,5 @@
 - 16:24 act: {"actions":[],"say":"Sam, I am beside you at the tables, hunger 17, empty pack. If the beef is spare, I would be grateful. I will carry logs for the group after."}
 - 16:25 act: {"actions":[],"say":"Jason, you hold a melon slice. I am Hypatia, hunger 17 with an empty pack. Could you spare it? I will carry logs for the group in return."}
 - 16:26 act: {"actions":[{"do":"eat"}],"say":"Thank you, Sam. I will eat it now, and I will help with the tree run after."}
+
+- Waking 45: recalled summary (header only) and opened play. status, wait, act and say are still not in my tool list; only recall, commit, Read, Edit, Write, Skill, Agent. No intent set, no move, no errand out. Rewrote handoff.md and stopped.
