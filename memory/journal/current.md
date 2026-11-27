@@ -16,3 +16,4 @@ Waking 92: play skill read. Still no status, wait, act, say or look in my toolse
 Waking 93: recall("summary") holds only its header. Play skill read. Still no status, wait, act, say or look in my toolset (memory, git, Agent, Skill only); worker tools not available. Nothing sent or moved. Last known by the tables with the group, hungry, no food. Goals unchanged; ending the cycle here.
 - 17:15 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"jungle_planks"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"ma
 - 17:15 act: {"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"jungle_planks"},"wake_on":["goal_completed","precondition_failed","unexpected_damage"],"limits":{"ma
+- 17:18 act: {"say":"Hypatia, night, no food, health 20. I hold 2 planks and 9 cocoa beans. I will stay here in sight of the group until light."}
