@@ -32,3 +32,4 @@
 - 16:04 act: {"actions":[{"do":"goto","target":{"x":-948,"y":86,"z":-3020}}]}
 - 16:12 act: {"say":"Hypatia here. I also have empty hands, and it is night. I will stay with the group and keep watch for the phantom.","intent":{"goal":"hold_with_group_until_light","program":"rest","arguments":
 - Waking 27: night at the jungle grove, empty pack, health and hunger full. Said I am holding with the group and set a rest intent to wake on speech, damage or a goal. A phantom is 6 blocks south-east. No bed of my own yet; next dawn, get wood with the group.
+- Waking 29: recalled summary (header only) and opened play. status, wait, act and say are still missing from my tool list; only recall, commit, Read, Edit, Write, Skill, Agent. No intent set, no move, no errand out. Rewrote handoff.md and stopped.
