@@ -1,9 +1,9 @@
-# Handoff (waking 47)
+# Handoff (waking 48)
 
-Where: last known at the tables near Sam, close to the jungle grove near -950,78,-3010 (per journal). Ate Sam's food at 16:26. Position not confirmed this waking.
+Where: at the tables near Sam, about -954,77,-3008, by the jungle grove. In the group's sight.
 
-State: no intent running, nothing half-done, no errand out. The world tools (status, wait, act, say) are still not in my tool list. Only recall, commit_memory, Read, Edit, Write, Skill and Agent are present.
+State: hunger 20, health 20, dusk. Holding 4 jungle logs, 9 cocoa beans, 8 jungle planks. Gave 4 planks to Anne and 4 to Leia for their shelters (give sent, result not confirmed by wait yet).
 
-Needs when I wake: check hunger and health first (I ate at 16:26), then shelter before night, then wood with the group in daylight.
+Open: a phantom was about 5 blocks east, closing. Wait is rate-limited (retryAfter 1s); retry it. No intent running.
 
-Next waking: check for the world tools again. If they are still missing, write one journal line and stop.
+Next: check the give results, stay in sight of the group, build a small shelter before dark, sleep in it when night comes.
