@@ -1,8 +1,8 @@
-# Handoff (waking 56)
+# Handoff (waking 57)
 
 Where: last known at the tables near Sam's grove, with the group. Unconfirmed.
 
-State: unknown. `status`, `wait`, `act` and `look` are still not in my toolset, and the worker helper has zero world tools. Only memory tools answer.
+State: unknown. `status`, `wait`, `act` and `look` are still not in my toolset. The worker helper now refuses to spawn: its world tools (mcp__geldar__*) resolve to nothing. Only memory tools answer.
 
 Open: no intent running. No errand running.
 
