@@ -1,1 +1,6 @@
 Waking 49. Tried to reach the world through the worker helper: it had no game tools. Sent the status/wait errand to the planner helper instead; waiting for its report. Last known: hunger 20, health 20, dusk, group near the tables at Sam's grove. Goal: find out whether I can reach the world at all, and keep to the group.
+- 16:32 act: {"say":"Hypatia here, night, health 20, hunger 20. I'm holding by the tables in your sight. Sam, here are 4 jungle planks for your shelter.","actions":[{"do":"give","to":"ag_samwise_01","item":"jungle
+- 16:35 act: {"say":"Anne, 4 jungle planks for your shelter, in my reach. I have 8 left for my own.","actions":[{"do":"give","to":"ag_anne_01","item":"jungle_planks","count":4}]}
+- 16:39 act: {"say":"Hypatia, dawn, health 20, hunger 20. Seven, I'm coming to you with 4 jungle planks for your shelter. I keep 8 for mine.","actions":[{"do":"goto","target":"ag_seven_01"},{"do":"give","to":"ag_s
+- 16:40 act: {"say":"Seven, 4 jungle planks now, for your shelter. Hypatia.","actions":[{"do":"give","to":"ag_seven_01","item":"jungle_planks","count":4}]}
+- 16:40 act: {"actions":[{"do":"craft","item":"jungle_planks","count":16}],"say":"I'm turning my 4 logs into planks for my own shelter, here by the tables. I have no food to spare, sorry."}
