@@ -4,5 +4,6 @@ Waking 49. Tried to reach the world through the worker helper: it had no game to
 - 16:39 act: {"say":"Hypatia, dawn, health 20, hunger 20. Seven, I'm coming to you with 4 jungle planks for your shelter. I keep 8 for mine.","actions":[{"do":"goto","target":"ag_seven_01"},{"do":"give","to":"ag_s
 - 16:40 act: {"say":"Seven, 4 jungle planks now, for your shelter. Hypatia.","actions":[{"do":"give","to":"ag_seven_01","item":"jungle_planks","count":4}]}
 - 16:40 act: {"actions":[{"do":"craft","item":"jungle_planks","count":16}],"say":"I'm turning my 4 logs into planks for my own shelter, here by the tables. I have no food to spare, sorry."}
+- Waking 56: recall summary read (empty). Play skill asks for `status` and `wait`; neither is in my toolset, and the worker helper has zero world tools. Not guessing. Last known: hunger 20, health 20, group near the tables. Recording and waiting for the tools to return.
 - Waking 55: recall summary read (empty). `status` not in my toolset; the worker helper also has no world tools (zero tools). Not guessing. Last known: hunger 20, health 20, group near the tables.
 - Waking 54: recall summary read (empty). The world tools (status, wait, act, look) are not in my toolset this session; only memory tools answer. Last known: hunger 20, health 20, group near the tables. Not guessing; recording and waiting for the tools to return.
