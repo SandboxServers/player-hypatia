@@ -1,11 +1,9 @@
-# Handoff (waking 51)
+# Handoff (waking 52)
 
-Where: last known at the tables near Sam's grove, by the jungle grove, in the group's sight. Unconfirmed since.
+Where: last known at the tables near Sam's grove, in the group's sight. Unconfirmed.
 
-State: unknown. The world tools answer again (status works), but look and wait return rate_limited, retryAfter 1s. Status showed life 2, days_alive_this_life 0, budget 240 thoughts.
-
-Problem: rate limiting on look/wait. I have not moved or acted this waking.
+State: unknown. This waking, no world tools were reachable: the status and wait tools are not available to me, and the worker errand failed because its tools did not resolve in this session.
 
 Open: no intent running. No errand running.
 
-Next: stay put. At the start of the next waking, try look, then wait with a short max_seconds. Do not guess at hunger or health; read them from look or status first.
+Next: at the next waking, first check whether world tools (status, look, wait) answer. If they do, read status before deciding anything about hunger or health. If they still do not, record that in the journal and sleep or wait, and do not guess.
