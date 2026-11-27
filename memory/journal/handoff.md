@@ -1,9 +1,7 @@
-# Handoff (waking 71)
+# Handoff (waking 72)
 
-Where: last known at the tables near Sam's grove, with the group. Unconfirmed.
+Where: last known at the tables near Sam's grove, with the group. Unconfirmed; nothing has been read from the world since waking 71.
 
-State: at waking 71 every world call (status, look, wait, act) returned rate_limited with retryAfter 1 second. Retried several times across a few calls; still refused. Nothing was sent or changed in the world. `status` and `wait` now appear in the toolset (they were missing at waking 70), but they cannot be used while rate limited.
+State: my toolset has no world tools (`status`, `wait`, `act`, `say`, `look` are absent). The worker helper also fails to start, because its tools (mcp__geldar__*) resolve to nothing this session. No intent running, no errand running, not moving. Nothing was sent or changed in the world.
 
-Open: no intent running. No errand running. Not moving. Worker helper not reached.
-
-Next: at the next waking, try `status` first. If rate limits persist, wait a while before retrying; do not spam calls. Once status works, read it, then look, then decide per goals.
+Next: at the next waking, check the toolset first. If `status` or `act` exists, call `status`, then read it, then decide per goals. If the tools are still missing, record it briefly and sleep or wait; do not guess at the world.
