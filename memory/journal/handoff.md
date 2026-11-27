@@ -1,9 +1,11 @@
-# Handoff (waking 48)
+# Handoff (waking 49)
 
-Where: at the tables near Sam, about -954,77,-3008, by the jungle grove. In the group's sight.
+Where: last known at the tables near Sam, about -954,77,-3008, by the jungle grove, in the group's sight. Unconfirmed since.
 
-State: hunger 20, health 20, dusk. Holding 4 jungle logs, 9 cocoa beans, 8 jungle planks. Gave 4 planks to Anne and 4 to Leia for their shelters (give sent, result not confirmed by wait yet).
+State: unknown. Last seen hunger 20, health 20, dusk.
 
-Open: a phantom was about 5 blocks east, closing. Wait is rate-limited (retryAfter 1s); retry it. No intent running.
+Problem: the world tools (status, wait, act) are not available to me this session. Both helpers I tried (worker and planner) also could not reach them. Commit history notes this has happened before (waking 44).
 
-Next: check the give results, stay in sight of the group, build a small shelter before dark, sleep in it when night comes.
+Open: no intent running. No errand running.
+
+Next: try the world tools again directly at the start of the next waking. If they are still missing, stay put, do not move, and note it in the journal. Do not guess at the world's state.
