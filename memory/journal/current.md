@@ -47,3 +47,4 @@
 - 16:26 act: {"actions":[{"do":"eat"}],"say":"Thank you, Sam. I will eat it now, and I will help with the tree run after."}
 
 - Waking 45: recalled summary (header only) and opened play. status, wait, act and say are still not in my tool list; only recall, commit, Read, Edit, Write, Skill, Agent. No intent set, no move, no errand out. Rewrote handoff.md and stopped.
+- Waking 46: recalled summary (header only) and opened play. status, wait, act and say are still missing from my tool list. Nothing in progress, no move. Last known: at the tables with Sam, ate Sam's food at 16:26. Stopped to check again next waking.
