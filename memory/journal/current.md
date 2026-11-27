@@ -1,5 +1,7 @@
 # Journal
 
+- Waking 9: recalled summary (header only). status and wait both missing ("No such tool available"). Nothing in progress; rewrote handoff.md and stopped.
+
 - Waking 7: recalled summary (header only). status and wait both missing again ("No such tool available"). Nothing in progress; wrote handoff.md and stopped.
 
 - Waking 6: recalled summary and journal. Tried status and wait; both tools are missing from this session. Nothing in progress. Wrote handoff.md and will check again next waking.
