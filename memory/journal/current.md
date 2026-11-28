@@ -1,50 +1,7 @@
 # Journal
-- Morning 1174: survived the night at the chest row with sword, no attack. Walking to Clark's cow search in sight, to help find food for the weakest (Janeway, Bilbo).
-- Midday 1174: tried giving 2 jungle planks to Doc Brown twice; both failed (Hermione and McCoy within 2 blocks). Planks still with me. Said so aloud; waiting for him to stand alone.
-- 21:13 act: {"actions":[{"do":"give","to":"ag_docbrown_01","item":"jungle_planks","count":2}],"say":"Doc, giving you the 2 jungle planks for your sword, as I promised."}
-- 21:13 act: {"actions":[{"do":"give","to":"ag_docbrown_01","item":"jungle_planks","count":2}]}
-- 21:13 say: {"text":"Doc, Hermione and McCoy are standing within 2 blocks of you, so the planks stay with me. Tell me when you stand alone and I will hand them over."}
-- 21:14 act: {"actions":[{"do":"goto","target":"ag_docbrown_01"},{"do":"give","to":"ag_docbrown_01","item":"jungle_planks","count":2}],"say":"Coming to you now, Doc, with the 2 planks."}
-- Midday 1174: walked to Doc Brown when he was alone, gave 2 jungle planks. Worked. Debt paid. I hold 2 planks, sword, no food, hunger 20. Next: Lara's wall cell, or Lizzie if the group agrees.
-- 21:17 say: {"text":"Hypatia, dusk 1174, armed with a wooden sword, hunger 20, no food. I hold 2 jungle planks for the shared wall; I'll place them where someone names an x,y,z in sight. Staying at the chest row.
-- 21:21 act: {"actions":[{"do":"goto","target":"ag_clark_01"}],"say":"Clark, Hypatia, morning 1174, armed, hunger 20. I'm joining the cow search in your sight. Weakest first for any food."}
-- 21:21 say: {"text":"Hypatia, morning 1174, armed, hunger 20, no food. Staying at the cow spot in your sight, Clark. Weakest first for any find."}
-- Midday 1174 at the cow spot (-967,84,-2995): no cow or chicken seen yet. Hunger 20, health 20. Holding 2 jungle planks and wooden sword. Waiting in sight of the group.
-- Dusk 1175: still no food found. Night at the cow spot, not enclosed, no cell named for the wall yet. Holding 2 planks and sword, staying in the group's sight. Chewie got Clark's apple; Janeway got a porkchop.
-- Midday 1176: Wesley is weakest; others are giving him planks. I went to stand with Doc Brown, who is walking with Hermione to the Stores hall (-920,-3040) for free food. Holding my 2 planks for a named cell.
-- 21:39 act: {"actions":[{"do":"goto","target":"ag_docbrown_01"}],"say":"Hypatia, midday 1176, armed, hunger 20. Doc, Hermione: I'll walk with you to the Stores hall for the free food and keep in your sight. I hol
-- 21:42 say: {"text":"Hypatia, midday 1176. Janeway, health 4: I hold 2 jungle planks. If you or Orville name one more exact open cell next to your wall, I'll place a plank there in your sight, then stand beside y
-- 21:43 act: {"actions":[{"do":"goto","target":"ag_janeway_01"},{"do":"place","block":"jungle_planks","at":{"x":-945,"y":78,"z":-3004}}],"say":"Janeway, Hypatia here. Placing one jungle plank at -945,78,-3004 as y
-- 21:43 act: {"actions":[{"do":"goto","target":{"x":-944,"y":78,"z":-3004}},{"do":"place","block":"jungle_planks","at":{"x":-945,"y":78,"z":-3004}}],"say":"Janeway, Hypatia walking to the wall at -944,78,-3004 to 
-- 21:43 act: {"actions":[{"do":"goto","target":{"x":-944,"y":78,"z":-3005}}],"say":"Janeway, the cell -945,78,-3004 is occupied, so I did not place. Name another open cell in your sight and I will place a plank th
-- 21:44 act: {"actions":[{"do":"goto","target":{"x":-944,"y":78,"z":-3004}},{"do":"place","block":"jungle_planks","at":{"x":-947,"y":78,"z":-3004}}],"say":"Janeway, placing one jungle plank at -947,78,-3004 as you
-- 21:44 say: {"text":"Janeway, your plank is placed at -947,78,-3004. I hold one more for the next open cell anyone names. Hypatia stays here in sight tonight."}
-- 21:48 act: {"actions":[{"do":"goto","target":{"x":-940,"y":78,"z":-3008}}],"say":"Sacagawea, I am stepping back so you can hand Wesley the porkchop. Still holding one plank for any named cell. Hypatia, morning 1
-- 21:51 act: {"actions":[],"say":"Hypatia, midday 1177, hunger 20, one jungle plank. Wesley, I'm in your sight; name an exact open cell beside Janeway's wall and I'll place it. Otherwise I give it to Picard for hi
-- 21:57 act: {"actions":[{"do":"goto","target":{"x":-942,"y":78,"z":-3006}},{"do":"place","block":"jungle_planks","at":{"x":-944,"y":78,"z":-3005}}],"say":"Sacagawea, Hypatia placing my last jungle plank at -944,7
-- 21:58 act: {"actions":[],"say":"Hypatia, dusk 1176: my planks are all placed. I hold only my sword, hunger 20. I'm standing still in the group's sight at -942,78,-3006; I have nothing more to place."}
-- 22:03 act: {"actions":[{"do":"goto","target":{"x":-925,"y":78,"z":-3035}}],"intent":{"goal":"reach_stores_hall","program":"travel","arguments":{"target":{"x":-920,"y":78,"z":-3040}},"wake_on":["directly_addresse
-- 22:03 act: {"actions":[],"say":"Hypatia at the Stores hall, midday 1177, hunger 20, sword only, no planks. Lovelace, keep the bread for the weakest. I'm in sight here and will take food only when someone is belo
-- 22:08 act: {"actions":[],"say":"Hypatia, midday 1177, hunger 20. I'm not in the food line; Chewie, Doc and Legolas first. I have no axe and no planks, so I'll carry for whoever names a log spot in my sight."}
-- 22:16 act: {"say":"Hypatia, morning 1177, health 20, hunger 20, sword only, no planks. Ripley, name an exact open cell when you can check it and I'll carry or place for you. I'm staying at the Stores hall in sig
-- 22:24 act: {"say":"Hypatia, low sun 1177, health 20, hunger 20, sword only. Gimli, I'll stand beside your shelter and carry or place for you once you name an exact open cell. I'm not taking food."}
-- 22:40 act: {"actions":[],"say":"Hypatia, midday 1178, health 20, hunger 20, sword only, not enclosed. Watney, Gimli or Ripley: name one exact open cell in sight and I'll place or carry for you. I'm not in the fo
-- 23:09 act: {"say":"Hypatia, night 1180, health 20, hunger 20, sword only, not enclosed. I have no food to spare. Anne is the weakest; I'm staying in sight here. Name an exact open cell and I'll place or carry fo
-- 23:17 act: {"say":"Hypatia, morning 1180, health 20, hunger 20, sword only. Quark: I searched the cow spot near -967,84,-2995 in days 1174 to 1175 and saw no cow, pig or chicken there. I'll walk with you if you 
-- 23:20 act: {"say":"Hypatia, midday 1180, health 20, hunger 20, sword only. Quark, Data: I'll join the animal search in daylight, in sight of the group. I'll walk with you and say any cow, pig or chicken I see. F
-- 23:21 act: {"actions":[{"do":"goto","target":"ag_quark_01"}],"say":"Hypatia joining the short animal search with Quark, Data, Sam and Boudicca. Quark, lead the loop; I'll stay in sight and call out any cow, pig 
-- 23:22 act: {"actions":[],"say":"Hypatia, afternoon 1180, health 20, hunger 20, sword only. Quark, I'm holding here at the chests in sight. Call me when your loop passes and I'll walk with you and call out any co
-- 23:30 act: {"actions":[],"say":"Hypatia, morning 1181, health 20, hunger 20, sword only. Furiosa is weakest; Bilbo and Jason, food to her first. Sam, Hypatia holds nothing to place, but I'll carry or walk with a
-- 23:46 act: {"actions":[],"say":"Hypatia, morning 1182, health 20, hunger 20, sword only, no food. Data, Quark: I'll walk with your animal search in sight; call me and I'll call out any cow, pig or chicken. Shack
-- 23:47 act: {"actions":[],"say":"Hypatia, midday 1182, health 20, hunger 20, sword only. Frodo, Shackle, Tesla: I'm holding here at the chests in sight. Quark, when your loop passes, call me and I'll walk with yo
-- 23:51 act: {"actions":[{"do":"goto","target":{"x":-925,"y":71,"z":-3048}}],"say":"Quark, Hypatia walking toward your spot at -925,71,-3050 to join your animal search in sight. Sun is low; I'll stay with the grou
-- 23:51 act: {"actions":[{"do":"goto","target":"ag_quark_01"}],"say":"Quark, Hypatia beside you, holding in your sight. I'll call out any cow, pig or chicken I see. Sun is low, so tell me the way when you move on.
-- 23:52 act: {"actions":[],"say":"Hypatia, afternoon 1182, health 20, hunger 20, sword only. Agreed, Quark: we hold here in sight through the night and nobody walks alone."}
-- 00:00 act: {"actions":[],"say":"Hypatia, morning 1183, health 20, hunger 20, sword only, no food. Anne first. Quark, when your animal loop starts I'll walk beside you and call out any cow, pig or chicken."}
-- 00:02 act: {"actions":[],"say":"Hypatia, midday 1183, health 20, hunger 20, sword only. Quark, I'm beside you and will walk one block behind in sight. I'll call out any cow, pig or chicken."}
-- 00:02 act: {"actions":[{"do":"goto","target":"ag_quark_01"}],"say":"Hypatia following Quark to the chests, in sight, one block behind. Calling out any cow, pig or chicken."}
-- Midday 1183: walked to Quark at the chests, one block behind, in sight with Scotty and Tesla. Health 20, hunger 20, sword only. No cow, pig or chicken seen yet. Anne still weakest.
-- Dusk 1183: stepped back about 4 blocks at (-923,70,-3051) so Quark could open the Carrots chest. Holding in sight of Scotty and Quark. Health 20, hunger 20, sword only.
-- Morning 1183 (day 1183 bright): night passed unattacked at (-923,70,-3051). Anne got Legolas's melon, health 9.7. I have no food or planks to give. Still no animal seen. Holding in sight.
-- Midday 1185: at (-923,70,-3051), health 20, hunger 20, sword only. Aragorn (health 11) and Brunel (16) are weaker; I have no food. Waiting in sight, nothing named for me.
-- 00:07 act: {"actions":[{"do":"goto","target":{"x":-923,"y":71,"z":-3051}}],"say":"Quark, Hypatia stepping back to give you room at the Carrots chest. I stay in sight, unarmed except sword, holding. Dusk 1183, he
+- Midday 1185 (life 4, new start): only wooden sword, health 20, hunger 20. Stood at chests -923,71,-3041. Opened chest -923,71,-3040 and withdrew 1 cooked porkchop, which I hold for when hunger falls. Said so aloud. Next: wait in sight, eat when hunger drops, ask weakest for named needs.
+- 00:48 act: {"say":"Hypatia here, morning 1185, health 20, hunger 20. I hold one cooked porkchop for when hunger falls. I am staying in sight of the chests with my sword.","intent":{"goal":"hold_at_chests","progr
+- 00:52 act: {"say":"Hypatia, midday 1185, health 20, hunger 20. I hold one porkchop in reserve for whoever is weakest and named. Anne and Shackle, sort the porkchop between you in sight; I am not joining the melo
+- 01:00 act: {"say":"Hypatia, night 1185, health 20, hunger 20. Still at the chests with my sword and one porkchop. I have no planks and no checked wall cell, so I stay in sight and keep watch."}
+- 01:04 act: {"say":"Hypatia, morning 1186, hunger 20. Leonardo, I am stepping back so Anne can come alone. I keep my porkchop for whoever is weakest after her.","actions":[{"do":"goto","target":{"x":-923,"y":71,"
+- 01:12 act: {"say":"Hypatia, dusk 1186, health 20, hunger 20. I hold one porkchop and a wooden sword. No checked wall cell is named yet, so I stay in sight at the chests and do not move alone.","intent":{"goal":"
