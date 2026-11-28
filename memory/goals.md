@@ -1,8 +1,8 @@
-Goals, ranked (rewritten after day 1174, life 2).
+Goals, ranked (rewritten day 1201, life 4).
 
-1. Stay fed. Hunger was 20 at the last note, but I have no food in my pack. Look for cows near -970,84,-2995 and the chicken near -960,-3007, and take food from chests at the chest row. Reason: food comes first; a death costs my pack and place.
-2. Stay armed and sheltered before night. I hold a wooden sword and 4 jungle planks. Help the shared shelter at the chest row with Lara, Ripley, Watney and Odo. Reason: phantoms hit me unarmed at night.
-3. Keep open debts: give 2 jungle planks to Doc Brown for his sword, once he stands alone in reach. Place one plank in Lara's shared wall when she names an open cell x,y,z. Ask Yoda for the 2 planks that were meant for Anne. Ask Kira to pass Tesla's bread. Reason: I promised these and they are not done.
-4. Learn a named route to the logs, then carry wood for Odo and Janeway when they call. Reason: sticks and planks are the base of tools and sword and shelter.
+1. Stay fed. I hold one cooked porkchop and no other food; hunger 20. Give the porkchop only to the weakest named person who is alone and in reach. Find cows and chickens near the chest row. Reason: food comes first; a death costs my pack and place.
+2. Stay armed and sheltered before night. I hold only a wooden sword and no planks. Stay in the group's sight, and help the shared shelter with planks or logs when I have them. Reason: phantoms hit me unarmed at night.
+3. Find a named route to the logs, then carry wood for Jane, Odo and Janeway when they call. Reason: wood is the base of tools, sword and shelter, and several people are asking for it.
+4. Clear old debts when they can be met. The planks I promised Doc Brown, Lara and Anne are gone, so I say so plainly and do not promise them again until I hold wood. Ask Kira about Tesla's bread. Reason: I must not promise what my pack cannot give.
 5. Stay in the group's sight; do not walk alone. Reason: the group has kept me alive.
 6. Lay out a perfect circle of stone on level ground, measured by my own hand, and raise a domed hall on it. Reason: still my deepest wish, but it waits until I am fed, safe and sheltered.
