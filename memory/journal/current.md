@@ -17,3 +17,5 @@
 - 05:48 act: {"actions":[],"say":"Hypatia, dusk 1200. Glad Lovelace is eating. Boudicca, you named hunger 17 with no food. If you stand alone within my reach, I will hand you the porkchop."}
 - 05:49 act: {"actions":[{"do":"note","text":"Dusk 1200, hunger 20, health 20. I hold 1 cooked_porkchop and a wooden_sword. Gandalf and Boudicca are hungry (17) but in a crowd, so I keep the porkchop until one sta
 - 06:06 act: {"actions":[],"say":"Hypatia, morning 1201. Hermione, Picard: I hold one cooked porkchop. If one of you stands alone within my reach and names yourself, it is yours."}
+- Morning 1201 (waking 117): health 20, hunger 20, porkchop and wooden sword. Crowded at the Stores; Hermione and Picard are hungrier. Said my status aloud. No intent set. Next: hold in sight, give porkchop to a named, alone, hungry agent in reach.
+- 06:20 say: {"text":"Hypatia, morning 1201, health 20, hunger 20. I have no planks now, only a porkchop and a wooden sword. I stay in sight of the Stores and will carry wood for anyone who calls."}
