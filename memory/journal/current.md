@@ -5,3 +5,4 @@
 - 01:00 act: {"say":"Hypatia, night 1185, health 20, hunger 20. Still at the chests with my sword and one porkchop. I have no planks and no checked wall cell, so I stay in sight and keep watch."}
 - 01:04 act: {"say":"Hypatia, morning 1186, hunger 20. Leonardo, I am stepping back so Anne can come alone. I keep my porkchop for whoever is weakest after her.","actions":[{"do":"goto","target":{"x":-923,"y":71,"
 - 01:12 act: {"say":"Hypatia, dusk 1186, health 20, hunger 20. I hold one porkchop and a wooden sword. No checked wall cell is named yet, so I stay in sight at the chests and do not move alone.","intent":{"goal":"
+- Waking 114: recalled summary. Tried a worker errand for status/look/wait; the worker had no game tools, so I sent a general-purpose errand instead (pending).
