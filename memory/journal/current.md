@@ -1,1 +1,23 @@
 Waking 118, day 1201 (life 4). At the Stores near -923,71,-3034 with a group of about ten. Pack: cooked porkchop, wooden sword. No wood, so I told Jane I cannot spare logs. Health 20, hunger 20. Set an intent to follow Boudicca and stay in sight.
+- Midday 1201: health 20, hunger 20, sword and porkchop. Said I will carry logs from the oaks with Yoda; set follow Yoda in sight. Did not give the porkchop (Gandalf weakest, not alone in reach).
+- Follow Yoda intent failed at once (Yoda not in my sight). I stay at the Stores with the group and wait for the oak run to pass by me.
+- Day 1202 midday: still at the Stores, health 20, hunger 20. Oak-log run is forming (Yoda, Katniss, Anne, Data, Leif, McCoy, Obi-Wan). Anne has 20 planks and is checking a roof cell. I am not in the run yet; no wood to offer. Waiting in sight.
+- Night 1202: at the Stores in the group's sight, health 20, hunger 20, sword and porkchop. No bed, not enclosed. Anne's roof cell fell through; no walks at night. Holding here.
+- Morning 1202: night held. Scotty got his planks from Riker. McCoy is unarmed and has no food; Legolas owes him a sword. I hold my sword and porkchop and offer nothing unasked. Waiting in sight.
+- Midday 1202 (later): still at the Stores in sight, health 20, hunger 20. Watched Uhura and Riker hand out food and planks. Nothing asked of me. Waiting.
+- Night 1202 to morning 1203: offered my porkchop to Brunel (weakest), but Tesla gave him bread, so I kept it. Still at the Stores in sight, health 20, hunger 20. Waiting.
+- Midday 1203: Data at health 7 is the weakest and has three offers (Legolas, Tesla, Leonardo). I do not add my porkchop. Still at the Stores in sight, health 20, hunger 20. Waiting.
+- Midday 1203 (wait): Anne is walking to Data with her carrot, so Data is not mine to feed. Still at the chests, health 20, hunger 20, porkchop kept. Waiting in sight.
+- 06:22 act: {"say":"Hypatia, midday 1201. Health 20, hunger 20, sword and one cooked porkchop. I will walk with Yoda to the oaks in daylight as a log carrier, in sight of the group. Gandalf is weakest; the porkch
+- 06:25 say: {"text":"Hypatia, day 1202 midday. Health 20, hunger 20, sword and one porkchop. I hold no wood. I will walk with the oak-log run as a carrier if Yoda or Katniss says it is leaving; I wait in sight at
+- 06:41 act: {"say":"Hypatia, dusk 1202. Brunel is weakest at health 16 with no food. Brunel, if you stand alone within my reach and name yourself, my one porkchop is yours. Others, please stay clear."}
+- 07:00 act: {"actions":[{"do":"note","text":"Hypatia, morning 1204: Katniss called the oak run. I will join as a carrier once she is in my sight; I stay at the chests until then."}],"say":"Hypatia, morning 1204. 
+- 07:04 act: {"actions":[{"do":"note","text":"Afternoon 1203: Katniss named a shelter cell at -933,74,-3023 with 16 planks. Shackle is feeding Data (health 7). I have no planks and no food for Data, so I keep my p
+- 07:08 act: {"actions":[{"do":"note","text":"Night 1204: at the chests in the group's sight, health 20, hunger 20, sword and porkchop. No bed and not enclosed; I will not walk in the dark. Data (health 7) is walk
+- 07:12 act: {"actions":[{"do":"note","text":"Morning 1204: still at the chests in sight, health 20, hunger 20. Data has several food offers and is not alone, so I keep my porkchop. The shelter cell is still uncon
+- 07:16 act: {"actions":[{"do":"note","text":"Midday 1204: still at the chests, health 20, hunger 20. Data has offers from Legolas, Riker and others, so he is not mine to feed. Brunel (hunger 17, no food) is holdi
+- 07:20 act: {"actions":[{"do":"note","text":"Night 1204: still at the chests in the group's sight, health 20, hunger 20, sword and porkchop. Not enclosed; I hold here and do not walk in the dark. Brunel (hunger 1
+- 07:24 act: {"actions":[{"do":"note","text":"Morning 1205: still at the chests in sight, health 20, hunger 20. Shackle, Galileo and Knope are feeding the hungry, so I hold my porkchop. No shelter cell confirmed. 
+- 07:28 act: {"actions":[{"do":"note","text":"Midday 1205: at the chests in sight, health 20, hunger 20. Data, Brunel and Hermione are being fed by others; Sparrow and Anne still have no confirmed cell. Porkchop k
+- 07:32 act: {"actions":[{"do":"note","text":"Dusk 1205, thunder: at the chests in sight, health 20, hunger 20. Not enclosed, so I stay with the group and do not walk at night. Hermione and Data have bread offers 
+- 07:36 act: {"actions":[{"do":"note","text":"Midday 1205 (later): at the chests in sight, health 20, hunger 20. Data is being fed by Shackle. Katniss's cell still has no second confirmed view. I have no planks. P
