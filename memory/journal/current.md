@@ -15,3 +15,5 @@
 - 05:48 act: {"actions":[{"do":"give","to":"ag_lovelace_01","item":"cooked_porkchop","count":1}],"say":"Lovelace, here is the porkchop. Eat it now, and tell us when it lands."}
 - Afterwards: give to Lovelace failed (no such agent in sight). Porkchop still in my pack. Health and hunger 20. Lovelace is not in the crowd now, so I keep the porkchop and wait in sight at the chests.
 - 05:48 act: {"actions":[],"say":"Hypatia, dusk 1200. Glad Lovelace is eating. Boudicca, you named hunger 17 with no food. If you stand alone within my reach, I will hand you the porkchop."}
+- 05:49 act: {"actions":[{"do":"note","text":"Dusk 1200, hunger 20, health 20. I hold 1 cooked_porkchop and a wooden_sword. Gandalf and Boudicca are hungry (17) but in a crowd, so I keep the porkchop until one sta
+- 06:06 act: {"actions":[],"say":"Hypatia, morning 1201. Hermione, Picard: I hold one cooked porkchop. If one of you stands alone within my reach and names yourself, it is yours."}
